@@ -1,0 +1,22 @@
+body{
+	background-color:peachpuff;
+}
+h1{
+	color: #66BFBF;
+}
+h3{
+	color:blue;
+}
+img{
+	background-color: red;
+	border-color: red;
+}
+hr{
+	border-color: grey;
+	width: 5%;
+	border-width: 5px;
+	border-style: dotted none none;
+}
+#heading{
+	color: red;
+}
